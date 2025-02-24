@@ -40,28 +40,22 @@
 
 ## 架构
 
-- [clean-architecture-swiftui](https://github.com/nalexn/clean-architecture-swiftui.git)
-- [ModernCleanArchitectureSwiftUI](https://github.com/sergdort/ModernCleanArchitectureSwiftUI.git)
 - [iOS-Clean-Architecture-MVVM](https://github.com/kudoleh/iOS-Clean-Architecture-MVVM.git)
 - [swift-composable-architecture](https://github.com/pointfreeco/swift-composable-architecture.git)
+- [clean-architecture-swiftui](https://github.com/nalexn/clean-architecture-swiftui.git)
+- [ModernCleanArchitectureSwiftUI](https://github.com/sergdort/ModernCleanArchitectureSwiftUI.git)
 
 ## 响应式库
 
 - [OpenCombine](https://github.com/OpenCombine/OpenCombine.git)
 - [CombineCocoa](https://github.com/CombineCommunity/CombineCocoa.git)
 - [CombineExt](https://github.com/CombineCommunity/CombineExt.git)
-- [RxSwift](https://github.com/ReactiveX/RxSwift.git)
-- [RxGesture](https://github.com/RxSwiftCommunity/RxGesture.git)
-- [RxDataSources](https://github.com/RxSwiftCommunity/RxDataSources.git)
-- [ReactiveSwift](https://github.com/ReactiveCocoa/ReactiveSwift.git)
-- [ReactiveCocoa](https://github.com/ReactiveCocoa/ReactiveCocoa.git)
 
 ## 数据库
 
 - [realm-swift](https://github.com/realm/realm-swift.git)
 - [SQLite.swift](https://github.com/stephencelis/SQLite.swift.git)
 - [GRDB.swift](https://github.com/groue/GRDB.swift.git)
-- [FMDB](https://github.com/ccgus/fmdb.git)
 - [WCDB](https://github.com/Tencent/wcdb.git)
 - [MMKV](https://github.com/Tencent/MMKV.git)
 
@@ -74,20 +68,15 @@
 
 - [Moya](https://github.com/Moya/Moya.git)
 - [Alamofire](https://github.com/Alamofire/Alamofire.git)
-- [Reachability.swift](https://github.com/ashleymills/Reachability.swift.git)
 
 ## 数据解析
 
 - [JSONConverter](https://github.com/vvkeep/JSONConverter.git)
 - [ObjectMapper](https://github.com/tristanhimmelman/ObjectMapper.git)
-- [SwiftyJSON](https://github.com/SwiftyJSON/SwiftyJSON.git)
-- [HandyJSON](https://github.com/alibaba/HandyJSON.git)
 
 ## 图片加载
 
 - [Kingfisher](https://github.com/onevcat/Kingfisher.git)
-- [Nuke](https://github.com/kean/Nuke.git)
-- [SDWebImage](https://github.com/SDWebImage/SDWebImage.git)
 
 ## 动画
 
@@ -101,27 +90,26 @@
 ## GIF动画
 
 - [Gifu](https://github.com/kaishin/Gifu.git)
-- [FLAnimatedImage](https://github.com/Flipboard/FLAnimatedImage.git)
 - [SwiftyGif](https://github.com/alexiscreuzot/SwiftyGif.git)
 
 ## 路由
 
 - [DeepLinkKit](https://github.com/button/DeepLinkKit.git)
-- [JLRoutes](https://github.com/joeldev/JLRoutes.git)
 - [URLNavigator](https://github.com/devxoul/URLNavigator.git)
 
 ## 弹窗
 
+- [Toast-Swift](https://github.com/scalessec/Toast-Swift.git)
 - [SVProgressHUD](https://github.com/SVProgressHUD/SVProgressHUD.git)
 - [MBProgressHUD](https://github.com/jdg/MBProgressHUD.git)
 - [SCLAlertView-Swift](https://github.com/vikmeup/SCLAlertView-Swift.git)
+- [JDStatusBarNotification](https://github.com/calimarkus/JDStatusBarNotification.git)
 - [SwiftMessages](https://github.com/SwiftKickMobile/SwiftMessages.git)
+- [AlertKit](https://github.com/sparrowcode/AlertKit.git)
 
 ## 布局
 
 - [SnapKit](https://github.com/SnapKit/SnapKit.git)
-- [Cartography](https://github.com/robb/Cartography.git)
-- [TangramKit](https://github.com/youngsoft/TangramKit.git)
 
 ## 加解密
 
