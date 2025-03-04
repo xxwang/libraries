@@ -13,8 +13,12 @@
 - [布局](#布局)
 - [加解密](#加解密)
 - [设备](#设备)
-- [日历/日期](#日历日期)
+- [日历](#日历)
+- [日程表](#日程表)
+- [日期选择](#日期选择)
+- [日期处理](#日期处理)
 - [商店/内购](#商店内购)
+- [升级提醒](#升级提醒)
 - [健康](#健康)
 - [音视频](#音视频)
 - [图形图像](#图形图像)
@@ -34,7 +38,6 @@
 - [调试](#调试)
 - [代码质量](#代码质量)
 - [工具](#工具)
-- [测试](#测试)
 - [日志](#日志)
 - [扩展库](#扩展库)
 
@@ -102,10 +105,11 @@
 - [Toast-Swift](https://github.com/scalessec/Toast-Swift.git)
 - [SVProgressHUD](https://github.com/SVProgressHUD/SVProgressHUD.git)
 - [MBProgressHUD](https://github.com/jdg/MBProgressHUD.git)
-- [SCLAlertView-Swift](https://github.com/vikmeup/SCLAlertView-Swift.git)
-- [JDStatusBarNotification](https://github.com/calimarkus/JDStatusBarNotification.git)
+- [NotificationBanner](https://github.com/Daltron/NotificationBanner.git)
 - [SwiftMessages](https://github.com/SwiftKickMobile/SwiftMessages.git)
+- [JDStatusBarNotification](https://github.com/calimarkus/JDStatusBarNotification.git)
 - [AlertKit](https://github.com/sparrowcode/AlertKit.git)
+- [Popovers](https://github.com/aheze/Popovers.git)
 
 ## 布局
 
@@ -119,14 +123,33 @@
 
 - [DeviceKit](https://github.com/devicekit/DeviceKit.git)
 
-## 日历/日期
+## 日历
 
-- [SwiftDate](https://github.com/malcommac/SwiftDate.git)
 - [JTAppleCalendar](https://github.com/patchthecode/JTAppleCalendar.git)
 - [FSCalendar](https://github.com/WenchaoD/FSCalendar.git)
+- [HorizonCalendar](https://github.com/airbnb/HorizonCalendar.git)
+- [Fastis](https://github.com/simla-tech/Fastis.git)
+
+## 日程表
+
+- [CalendarKit](https://github.com/richardtop/CalendarKit.git)
+- [KVKCalendar](https://github.com/kvyatkovskys/KVKCalendar.git)
+- [swift-week-view](https://github.com/EvanCooper9/swift-week-view.git)
+- [RVCalendarWeekView](https://github.com/BadChoice/RVCalendarWeekView.git)
+
+## 日期选择
+
 - [BRPickerView](https://github.com/agiapp/BRPickerView.git)
 
+## 日期处理
+
+- [SwiftDate](https://github.com/malcommac/SwiftDate.git)
+
 ## 商店/内购
+
+- [SwiftyStoreKit](https://github.com/bizz84/SwiftyStoreKit.git)
+
+## 升级提醒
 
 - [Siren](https://github.com/ArtSabintsev/Siren.git)
 
@@ -213,12 +236,12 @@
 ## 键盘
 
 - [IQKeyboardManager](https://github.com/hackiftekhar/IQKeyboardManager.git)
-- [IQKeyboardToolbarManager](https://github.com/hackiftekhar/IQKeyboardToolbarManager.git)
 
 ## 调试
 
 - [GodEye](https://github.com/zixun/GodEye.git)
 - [Wormholy](https://github.com/pmusolino/Wormholy.git)
+- [CocoaDebug](https://github.com/CocoaDebug/CocoaDebug.git)
 
 ## 代码质量
 
@@ -230,15 +253,10 @@
 - [R.swift](https://github.com/mac-cain13/R.swift.git)
 - [SwiftGen](https://github.com/SwiftGen/SwiftGen.git)
 
-## 测试
-
-- [Quick](https://github.com/Quick/Quick.git)
 
 ## 日志
 
 - [CocoaLumberjack](https://github.com/CocoaLumberjack/CocoaLumberjack.git)
-- [NSLogger](https://github.com/fpillet/NSLogger.git)
-- [XCGLogger](https://github.com/DaveWoodCom/XCGLogger.git)
 
 ## 扩展库
 
