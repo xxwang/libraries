@@ -110,6 +110,7 @@
 - [JDStatusBarNotification](https://github.com/calimarkus/JDStatusBarNotification.git)
 - [AlertKit](https://github.com/sparrowcode/AlertKit.git)
 - [Popovers](https://github.com/aheze/Popovers.git)
+- [Jelly](https://github.com/SebastianBoldt/Jelly.git)
 
 ## 布局
 
